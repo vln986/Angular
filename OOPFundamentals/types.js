@@ -16,3 +16,8 @@ var color;
 })(color || (color = {}));
 ;
 var backgroundColor = color.Purple;
+//Type assertions
+var message;
+message = 'abc';
+var endsWithC = message.endsWith('c');
+var alternativeWay = message.endsWith('c');
