@@ -10,3 +10,6 @@
 
 4. run
     node <fileName>.js 
+
+5. Both compile and run 
+    tsc <fileName>.ts && node <fileName>.js
